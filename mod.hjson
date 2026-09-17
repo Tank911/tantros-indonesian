@@ -1,0 +1,8 @@
+name: "indtantros"
+displayName: "Tantros Bahasa Indonesia"
+author: Tank 911
+description: "A short description of your mod."
+version: "1.0"
+minGameVersion: "160.0"
+dependencies: [tantros]
+hidden: false
